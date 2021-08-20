@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #E7D4B5;
+  }
+h1{
+  margin: 0;
+  padding-top: 10%;
+font-family: 'MonteCarlo', cursive;
+}
+h2{
+  font-family: 'Texturina', serif;
+
+}
+h3{
+  font-family: 'RocknRoll One', sans-serif;
+
+}
+p{
+  font-family: 'Lexend', sans-serif;
+}
+.TOPCONTAINER{
+  background-color: #686D76;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container{
+  background-color: #E7D4B5;
+}
+.bottom-container{
+  background-color: #E7D4B5;
+  }
+.Pro{
+ text-decoration: underline;
+}
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 50px;
+  }
+.bottom-cloud{
+  position: absolute;
+left: 300px;
+bottom: 300px;
+}
+ul{
+  display: table;
+  margin: 0 auto;
+}
+.photography:hover{
+  color: gold;
+}
